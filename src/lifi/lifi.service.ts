@@ -30,4 +30,7 @@ export class LifiService {
             throw new Error(`Failed to fetch available bridges: ${error.message}`);
         }
     }
+
+    // adding further intents
+    
 }
