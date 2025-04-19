@@ -31,6 +31,5 @@ export class LifiService {
         }
     }
 
-    // adding further intentsdsds
-    //eeee
+    
 }
